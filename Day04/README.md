@@ -8,7 +8,7 @@
 
 | Task | Title | Summary |
 |------|------|------|
-| 1 | [Create a LinkedIn Account](#task-1---create-a-linkedin-account) | Register a new LinkedIn account |
+| 1 | [Create a LinkedIn Account](#task-1---create-a-linkedint) | Register a new LinkedIn account |
 | 2 | [Connect on LinkedIn](#task-2---connect-with-the-instructor-on-linkedin) | Connect with instructor on LinkedIn |
 | 3 | [Create a LinkedIn Post](#task-3---create-a-linkedin-post) | Learn how to create a LinkedIn post |
 | 4 | [Publish Your First Post](#task-4---publish-your-first-post) | Publish the required Day 4 post |
